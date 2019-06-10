@@ -1,5 +1,5 @@
 # Golang Chat
-Implementation of Websocket with GoLang
+Implementation of Websocket with GoLang from `Go Programming Blueprints`
 
 Build the project:
 
